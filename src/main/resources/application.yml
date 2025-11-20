@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: rest-api-master
+server:
+  port: 8080
